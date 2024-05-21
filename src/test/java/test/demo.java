@@ -14,12 +14,7 @@ public class demo {
   }
   @AfterMethod
   public void afterMethod() {
-  } @AfterMethod
-  public void afterMethod1() {
-  }
-  @AfterMethod
-  public void afterMethod2() {
-  }
+  } 
 
   @BeforeClass
   public void beforeClass() {
